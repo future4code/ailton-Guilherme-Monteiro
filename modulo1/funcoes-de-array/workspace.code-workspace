@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\OneDrive\\Área de Trabalho\\callback-functions"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "callback-functions"
+	}
+}
