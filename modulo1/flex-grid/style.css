@@ -1,0 +1,39 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+header {
+    border: 1px solid black;
+    height: 8vh;
+    display: flex;
+    justify-content: space-between;
+    background-color: mediumvioletred;
+}
+
+main {
+    border: 1px solid black;
+    display: flex;
+    flex-grow: 1;
+}
+
+section {
+    border: 1px solid black;
+    flex-grow: 1;
+}
+
+#menuLateral {
+    background-color: #f2d0e0;
+}
+
+#meioPagina {
+    background-color: black;
+}
+
+
+footer {
+    border: 1px solid black;
+    height: 8vh;
+    background-color: mediumvioletred;
+}
